@@ -11,3 +11,4 @@ fig.show()
 df = pd.read_csv('CourtenayMillsRecordsEdited.csv')
 fig = px.pie(df, values='ID Number', names='Marital Status', title='Marital Status of Employees who Identified a Religious Affiliation')
 fig.show()
+
