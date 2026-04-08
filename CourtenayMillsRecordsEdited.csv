@@ -1,8 +1,8 @@
-﻿ID Number,Last Name,First Name,Est. Age,Race,M/F,Marital Status,Est. Year Hired (Earliest),Social Security Number,Denomination,Church Attended,Member/Nonmember,Department,Job,Times Hired
+﻿ID Number,Last Name,First Name,Est. Age,Race,Gender,Marital Status,Est. Year Hired (Earliest),Social Security Number,Denomination,Church Attended,Member/Nonmember,Department,Job,Times Hired
 1,Alexander,Selma V. C. ,33,White,F,Married,1947,248-01-1399,Methodist,,M,Cloth,Grade,1
 2,Bailey,Nina James,28,N/A,F,Single,1948,251-01-4618,Baptist,,M,Spinning,Spinner,1
 3,Bearden,Sam,50,White,M,Married,1947,248-24-4175,Baptist,,M,WR,Spare Hand,1
-4,Bingham,Hilliard J. D. ,19,White,M,Single,1949,247-40-3727,Church of God,,M,Spinning,Dolph,1
+4,Bingham,Hilliard J. D. ,19,White,M,Single,1949,247-40-3727,Church of God ,,M,Spinning,Dolph,1
 5,Black,Otis Ray,24,White,M,Single,1948,250-26-8299,Baptist,,NM,Weaving,Weaver,1
 6,Blackwell,Bertie B.,35,White,F,Married,1948,248-01-1131,Baptist,,M,Spool,Spool,1
 7,Blackwell,Edd,42,White,M,Married,1948,247-24-6600,Baptist,,M,Carding,Carder,1
@@ -25,7 +25,7 @@
 23,Clark,Virginia M. ,23,White,F,Married,1947,249-30-9652,Baptist,Westminster,M,Spinning,Spinner,1
 24,Cole,Horace Ralph,52,White,M,Married,1949,251-09-0730,Christian,,M,Weaving,Weaver,1
 25,Conley,Linder B.,46,White ,M,Married,1948,216-20-6322,Baptist,,M,Weaving,Weaver,1
-26,Crocker,Ruth,18,White,F,Single,1948,N/A,Church of God,,NM,Spinning,N/A,1
+26,Crocker,Ruth,18,White,F,Single,1948,N/A,Church of God ,,NM,Spinning,N/A,1
 27,Davis,Mary L,42,White,F,Married,1947,247-10-2281,Baptist,,M,Slash,Draw In,1
 28,Dodgens,Lois H. ,20,White,F,Married,1947,247-40-3458,Baptist,,M,Spinning,Spinner,1
 29,Dyar,Boyd,22,White,M,Married,1947,248-24-4424,Baptist,Westminster,M,Weaving/S[pinning,Weaver/Doffer,2
@@ -38,7 +38,7 @@
 36,Foster,Flo Smith,40,White,F,Married,1948,250-18-1002,Baptist,,M,Weaving,Weaver,1
 37,Frady,John Albert,36,White,M,Married,1949,247-07-4438,Protestant,,NM,Weaving,Weaver,1
 38,Freeman,Estelle,42,White,F,Married,1950,250-26-9119,Baptist,,M,Spinning,Spinner,1
-39,Freeman,Lillie M.,63,White,F,Married,1947,247-10-2296,Weslyn Methodist ,,M,Slash,Draw in,1
+39,Freeman,Lillie M.,63,White,F,Married,1947,247-10-2296,Wesleyan Methodist ,,M,Slash,Draw in,1
 40,Galbreath,Lillian James,43,White,F,Married,1945,248-01-1002,Protestant,,NM,Weaving,Weaver,2
 41,Galbreath,Marvin Whit,24,White,M,Married,1948,247-30-8758,Baptist,,M,Weaving,Weaver,1
 42,Gambrell,Clyde T.,54,White,M,Married,1947,249-09-2000,Baptist,,N/A,Weaving,Weaver,1
@@ -58,7 +58,7 @@
 56,Hardy,Charlie ,29,Person of Color,M,Married,1947,247-18-3406,Baptist,,N/A,Carding,Scrubber,1
 57,Hawkins,Emily Pilgrim,22,White,F,Married,1947,249-28-7594,Methodist,,M,Spinning,Spinner,1
 58,Hawkins,Magnolia D.,20,White,F,Married,1944,247-34-7649,Baptist,,NM,Spinning,Spinner,2
-59,Hawkins,Mary ,27,White,F,Married,1947,247-34-8211,,Corinth,M,Spinning,Spinner,1
+59,Hawkins,Mary ,27,White,F,Married,1947,247-34-8211,Baptist,Corinth,M,Spinning,Spinner,1
 60,Hawkins,Woodrow,29,White,M,Married,1945,248-01-1074,Baptist,,M,Spinning,Section/Utility,2
 61,Haynes,Taylor H.,37,White,M,Married,1948,248-05-3139,Baptist,,NM,Weaving,Weaver,1
 62,Heaton,Louise A. ,29,White,F,Married,1949,249-03-7114,Baptist,,M,Weaving,Weaver,1
@@ -66,18 +66,18 @@
 64,Henry,Mary Elizabeth Stringer Cox,28,White,F,Married,1944,247-16-0554,Baptist,,NM,Weaving,Batteries/Spare,2
 65,Henry,William Clark,30,White,M,Married,1948,247-01-3996,Methodist,,M,Weaving,Weaver,1
 66,Hightower,Richard,22,White,M,Married,1946,249-30-9529,Baptist,,N/A,Weaving,Loom Cleaner,1
-67,Hill,Samuel Lee,17,White,M,Single,1948,249-42-6391,"""Old"" Baptist",,NM,Weaving,Weaver,1
+67,Hill,Samuel Lee,17,White,M,Single,1948,249-42-6391,Baptist,,NM,Weaving,Weaver,1
 68,Hopkins,James Henry,22,White,M,Married,1948,249-30-7929,Protestant,,NM,Weaving,Spare Hand,1
 69,Horton,Hubert E.,45,White,M,Married,1949,239-01-4091,Baptist,,M,Weaving,Loom Fixer,1
 70,Howard,Ludie Larkin,51,White,M,Married,1948,248-05-4679,Church of God,,M,Weaving,Weaver,1
 71,Hudgins,W. T.,24,White,M,Married,1948,249-20-1853,Baptist,,NM,Supply,Clerk,1
 72,Hudson,Carl Stanton,56,White,M,Married,1948,247-05-5046,Baptist,,M,Weaving,Weaver,1
-73,Hunnicutt,J. D. ,30,White,M,Married,1947,251-01-5249,Church of God,,NM,Weaving,Spare Hand,1
+73,Hunnicutt,J. D. ,30,White,M,Married,1947,251-01-5249,Church of God ,,NM,Weaving,Spare Hand,1
 74,Hunnicutt,Nekoda Sanders,25,White,F,Married,1949,249-20-1040,Baptist,,M,Weaving,Batteries,1
 75,Huskey,Roy B.,42,White,M,Married,1947,254-01-9542,Protestant,,NM,Weaving,Weaver,2
 76,James,Maggie,24,White,F,Single,1948,247-38-6874,Baptist,,M,Spinning,Spinner,1
 76,James,Maggie,24,White,F,Single,1949,247-38-6874,Baptist,,M,Spinning,Spinner,1
-77,Jenkins,Mary L. ,40,White ,F,Married,1947,251-05-4641,Church of God,,M,Spinning,Spinner,1
+77,Jenkins,Mary L. ,40,White ,F,Married,1947,251-05-4641,Church of God ,,M,Spinning,Spinner,1
 78,Johnson,Leroy Earl,40,White,M,Married,1948,248-24-1955,Baptist,,M,Spinning,Spare Hand,1
 79,Jones,Christine,21,White,F,Single,1948,247-36-6518,Baptist,,M,Spinning,Spinner,1
 80,Jones,Lawerence John,26,White ,M,Married,1948,251-07-6134,Baptist,,M,Weaving,Quills (?),1
@@ -90,9 +90,9 @@
 87,Lewis,S. Ruth,18,White,F,Single,1947,249-40-7596,Methodist,,N/A,Weaving,Weaver,1
 88,Long,Warren E. ,60,White,M,Married,1947,250-12-4884,Baptist,Brasstown,M,Carding,Grind nub,1
 89,Maniev,Lewis Fredrick,21,White,M,Married,1947,249-28-7597,Baptist,,M,Weaving,Weaver,2
-90,Manley,Ralph ,26,White,M,Married,1947,247-22-6810,Protestant,Hopewell,M (assumed),Weaving,Weaver,1
-91,Martin,Geneva,19,White ,F,Married,1948,249-42-9198,Church of God,,NM,Spinning,Spinner,1
-92,Martin,Mary Alice,25,White,F,Married,1948,249-20-6823,Church of God,,NM,Spinning,Spinner,1
+90,Manley,Ralph ,26,White,M,Married,1947,247-22-6810,Protestant,Hopewell,M ,Weaving,Weaver,1
+91,Martin,Geneva,19,White ,F,Married,1948,249-42-9198,Church of God ,,NM,Spinning,Spinner,1
+92,Martin,Mary Alice,25,White,F,Married,1948,249-20-6823,Church of God ,,NM,Spinning,Spinner,1
 93,Mason,Arthur,27,White,M,Married,1947,251-10-5719,Protestant,,NM,Spinning,Spare/Sweep,2
 94,Mauldin,James Louis,57,White,M,Married,1948,251-18-6967,Protestant,,M,Carding,Spare Hand,1
 95,Maxie,Willie G.,26,White,M,Married,Unspecified,249-30-7797,Baptist,Corinth,M,Spinning,Spinner,1
@@ -141,7 +141,7 @@
 138,Rogers,Sara Elender,23,White,F,Married,1948,247-30-8418,Baptist,,N/A,Spinning,Spinner,1
 139,Rothell,Clemma H.,32,White,F,Married,1948,248-20-0053,Baptist,,M,Spinning,Spinner,1
 140,Russell,Estelle H.,33,White,F,Married,1947,249-09-2039,Baptist,,M,Spinning,Spinner,2
-141,Sanders,Fleta H.,29,White,F,Married,1947,N/A,Church of God,,M,Spinning,Spinner,1
+141,Sanders,Fleta H.,29,White,F,Married,1947,N/A,Church of God ,,M,Spinning,Spinner,1
 142,Sanders,Lula Jane G.,63,White,F,Married,1946,251-03-5548,Latter Day Saint,,N/A,Weaving,Draw In,1
 143,Scroggs,Avanell,18,White,F,Single,1949,248-46-3205,Church of God,,M,Weaving,Batteries,1
 144,Segars,Stanley,25,White,M,Married,1947,249-26-6004,Baptist,,M,Weaving,Weaver,2
@@ -169,7 +169,7 @@
 166,Stephens,Addie F.,30,White,M,Single,1948,247-10-1791,Protestant,,NM,Spinning,Spare Hand,1
 167,Stephens,Albert T.,38,White,M,Married,1948,249-09-4820,Baptist,,M,Weaving,Weaver,1
 168,Stroup,John Thomas,48,White,M,Married,1949,247-22-3308,Baptist,,M,Spinning,Dolph,1
-169,Sullivan,Leland R.,40,White,M,Married,1947,247-24-2899,Church of God,,M,Weaving,Spare Hand,2
+169,Sullivan,Leland R.,40,White,M,Married,1947,247-24-2899,Church of God ,,M,Weaving,Spare Hand,2
 170,Swayngham,Ruzell Howard,19,White,F,Married,1947,247-36-8788,Pentecostal,,NM,Spinning,Spinner,2
 171,Tannery,Robert B.,19,White,M,Single,1947,249-38-6541,Protestant,,NM,Weaving,Sweeping/Weaving,2
 172,Tarrant,Annie S.,57,White,F,Married,1949,249-09-5972,Baptist,,M,Weaving,Weaver,2
@@ -186,7 +186,7 @@
 183,Watt,Domer Mitchell,19,White,M,Married,1949,249-40-9271,Protestant,,NM,Spinning,Dolph,1
 184,Wheeler,Bulah S.,38,White,F,Married,1949,251-05-5003,Baptist,,M,Weaving,Weaver,1
 185,Wheeler,Sam,44,White,M,Married,1949,249-09-5821,Baptist,,M,Weaving,Loom Fixer,1
-186,Whisnant,Benjamin Franklin Jr.,19,White,M,Married,1948,247-36-9227,Church of God,,M,Carding,Cards,1
+186,Whisnant,Benjamin Franklin Jr.,19,White,M,Married,1948,247-36-9227,Church of God ,,M,Carding,Cards,1
 187,White,Annie,53,White,F,Married,1948,244-10-6693,Baptist,,M,Spinning,Spinner,2
 188,White,Clifford W. ,33,White,M,Married,1949,249-30-7509,Baptist,,N/A,Weaving,Weaver,1
 189,White,Gordon Henry,35,White,M,Married,1949,247-03-1617,Baptist,,N/A,Weaving,Weaver,1
